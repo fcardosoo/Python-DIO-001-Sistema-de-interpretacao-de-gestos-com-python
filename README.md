@@ -1,0 +1,1 @@
+# Sistema-de-interpretacao-de-gestos-com-python
