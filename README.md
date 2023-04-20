@@ -8,6 +8,7 @@ Nesse projeto utilizo a biblioteca de Python OpenCV, desenvolvida pela Intel e a
 Aqui, utilizo a interpretação de gestos por meio da webcam do computador, focando na automação de tarefas como inicialização e fechamento de apps. Porém, esse projeto também permite abstrair soluções para aplicação de projetos como um sistema de interpretação de libras, alicações de segurança, trânsito autônomo com identificação de placas e sinalizações em tempo real.
 
 🛑 Áreas de Aplicação
+
 ✅ Identificação de objetos;
 
 ✅ Sistema de reconhecimento facial;
